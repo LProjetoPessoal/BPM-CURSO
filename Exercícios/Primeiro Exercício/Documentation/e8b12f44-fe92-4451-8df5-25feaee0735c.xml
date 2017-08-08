@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ExtendedAttribute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="e8b12f44-fe92-4451-8df5-25feaee0735c" Type="LongText" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:29:42.7818856-03:00">
+<ExtendedAttribute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="e8b12f44-fe92-4451-8df5-25feaee0735c" Type="LongText" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T15:56:02.3170138-03:00">
   <Name>Regras</Name>
   <Description />
   <Options />

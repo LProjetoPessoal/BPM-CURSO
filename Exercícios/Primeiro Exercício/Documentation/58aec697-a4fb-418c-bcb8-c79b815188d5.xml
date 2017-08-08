@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ExtendedAttribute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="58aec697-a4fb-418c-bcb8-c79b815188d5" Type="Text" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:29:31.1058886-03:00">
+<ExtendedAttribute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="58aec697-a4fb-418c-bcb8-c79b815188d5" Type="Text" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T15:56:02.301386-03:00">
   <Name>Tempo</Name>
   <Description>Duração Média , em minutos para executar a atividade</Description>
   <Options />
