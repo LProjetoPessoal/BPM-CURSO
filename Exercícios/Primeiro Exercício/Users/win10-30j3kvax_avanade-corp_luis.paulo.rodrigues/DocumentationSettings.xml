@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<DocumentationSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <WordPath>C:\Users\luis.paulo.rodrigues\OneDrive\Cursos\Formação em BPM e Automação de Processos  - André Menelau\Exercícios\Primeiro Exercício\Primeiro Exercício.docx</WordPath>
+  <ExcelPath>C:\Users\luis.paulo.rodrigues\OneDrive\Cursos\Formação em BPM e Automação de Processos  - André Menelau\Exercícios\Primeiro Exercício.xlsx</ExcelPath>
+  <WordTemplatePath>C:\Program Files\Bizagi\Bizagi Modeler\Modeler\DocTemplates\CacauShow.dot</WordTemplatePath>
+  <SelectedDiagrams>
+    <DiagramId>682a712b-88b9-400f-a25b-621b6089fa4c</DiagramId>
+  </SelectedDiagrams>
+  <Settings>
+    <DiagramDocumentationSettings ElementId="682a712b-88b9-400f-a25b-621b6089fa4c">
+      <ProcessSettings>
+        <ProcessDocSettings ProcessId="4da527c2-5c67-42c2-99cc-328d617d4295">
+          <Elements>
+            <Id>53be4d08-4ac6-4d34-9dfb-c72e2cab05d0</Id>
+          </Elements>
+        </ProcessDocSettings>
+      </ProcessSettings>
+    </DiagramDocumentationSettings>
+  </Settings>
+</DocumentationSettings>

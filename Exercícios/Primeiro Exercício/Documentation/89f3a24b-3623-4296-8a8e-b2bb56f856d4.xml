@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<ExtendedAttribute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="89f3a24b-3623-4296-8a8e-b2bb56f856d4" Type="Radio" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:36:52.1387731-03:00">
+  <Name>Sistemas de Informação</Name>
+  <Description />
+  <Options>
+    <string>Sistema Bravo</string>
+    <string>MV</string>
+    <string>Protheus</string>
+  </Options>
+  <TableColumns />
+  <ElementTypes>
+    <AttributeElementType Type="UserTask" />
+  </ElementTypes>
+</ExtendedAttribute>

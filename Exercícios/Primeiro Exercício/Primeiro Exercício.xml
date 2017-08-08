@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<SerializableExtendedAttributes xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ExtendedAttributeCollection>
+    <ExtendedAttribute Id="58aec697-a4fb-418c-bcb8-c79b815188d5" Type="Text" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:29:31.1058886-03:00">
+      <Name>Tempo</Name>
+      <Description>Duração Média , em minutos para executar a atividade</Description>
+      <Options />
+      <TableColumns />
+      <ElementTypes>
+        <AttributeElementType Type="ManualTask" />
+        <AttributeElementType Type="UserTask" />
+      </ElementTypes>
+    </ExtendedAttribute>
+    <ExtendedAttribute Id="e8b12f44-fe92-4451-8df5-25feaee0735c" Type="LongText" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:29:42.7818856-03:00">
+      <Name>Regras</Name>
+      <Description />
+      <Options />
+      <TableColumns />
+      <ElementTypes>
+        <AttributeElementType Type="ManualTask" />
+        <AttributeElementType Type="UserTask" />
+      </ElementTypes>
+    </ExtendedAttribute>
+    <ExtendedAttribute Id="7f9c10b1-46b3-4475-b501-867400cd83c3" Type="Text" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:29:51.1368414-03:00">
+      <Name>Indicador de desempenho</Name>
+      <Description />
+      <Options />
+      <TableColumns />
+      <ElementTypes>
+        <AttributeElementType Type="ManualTask" />
+        <AttributeElementType Type="UserTask" />
+      </ElementTypes>
+    </ExtendedAttribute>
+    <ExtendedAttribute Id="415abd8d-6049-4c70-af1c-f70240dd533f" Type="LongText" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:30:01.2549272-03:00">
+      <Name>Procedimento</Name>
+      <Description />
+      <Options />
+      <TableColumns />
+      <ElementTypes>
+        <AttributeElementType Type="ManualTask" />
+        <AttributeElementType Type="UserTask" />
+      </ElementTypes>
+    </ExtendedAttribute>
+    <ExtendedAttribute Id="89f3a24b-3623-4296-8a8e-b2bb56f856d4" Type="Radio" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:36:52.1387731-03:00">
+      <Name>Sistemas de Informação</Name>
+      <Description />
+      <Options>
+        <string>Sistema Bravo</string>
+        <string>MV</string>
+        <string>Protheus</string>
+      </Options>
+      <TableColumns />
+      <ElementTypes>
+        <AttributeElementType Type="UserTask" />
+      </ElementTypes>
+    </ExtendedAttribute>
+    <ExtendedAttribute Id="42be4044-7180-4a40-a063-72c29a45c49d" Type="Image" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:37:42.4546479-03:00">
+      <Name>Tela do sistema</Name>
+      <Description />
+      <Options />
+      <TableColumns />
+      <ElementTypes>
+        <AttributeElementType Type="UserTask" />
+      </ElementTypes>
+    </ExtendedAttribute>
+  </ExtendedAttributeCollection>
+  <ExtendedAttributeOrderList>
+    <ExtendedAttributeOrder ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues">
+      <ExtendedAttributes>
+        <Id>58aec697-a4fb-418c-bcb8-c79b815188d5</Id>
+        <Id>e8b12f44-fe92-4451-8df5-25feaee0735c</Id>
+        <Id>7f9c10b1-46b3-4475-b501-867400cd83c3</Id>
+        <Id>415abd8d-6049-4c70-af1c-f70240dd533f</Id>
+      </ExtendedAttributes>
+      <ElementType Type="ManualTask" />
+    </ExtendedAttributeOrder>
+    <ExtendedAttributeOrder ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues">
+      <ExtendedAttributes>
+        <Id>58aec697-a4fb-418c-bcb8-c79b815188d5</Id>
+        <Id>e8b12f44-fe92-4451-8df5-25feaee0735c</Id>
+        <Id>7f9c10b1-46b3-4475-b501-867400cd83c3</Id>
+        <Id>415abd8d-6049-4c70-af1c-f70240dd533f</Id>
+        <Id>89f3a24b-3623-4296-8a8e-b2bb56f856d4</Id>
+        <Id>42be4044-7180-4a40-a063-72c29a45c49d</Id>
+      </ExtendedAttributes>
+      <ElementType Type="UserTask" />
+    </ExtendedAttributeOrder>
+  </ExtendedAttributeOrderList>
+</SerializableExtendedAttributes>

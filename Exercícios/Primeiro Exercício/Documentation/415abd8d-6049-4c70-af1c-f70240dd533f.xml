@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ExtendedAttribute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="415abd8d-6049-4c70-af1c-f70240dd533f" Type="LongText" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:30:01.2549272-03:00">
+  <Name>Procedimento</Name>
+  <Description />
+  <Options />
+  <TableColumns />
+  <ElementTypes>
+    <AttributeElementType Type="ManualTask" />
+    <AttributeElementType Type="UserTask" />
+  </ElementTypes>
+</ExtendedAttribute>

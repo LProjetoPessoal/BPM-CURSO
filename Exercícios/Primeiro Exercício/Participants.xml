@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<Participants xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.wfmc.org/2009/XPDL2.2">
+  <Participant Id="b258e90c-abab-4583-8719-375aba2f43f4" Name="Análista Comercial">
+    <ParticipantType Type="ROLE" />
+    <Description />
+    <ExtendedAttributes>
+      <ExtendedAttribute Name="AnalistaComercial" />
+    </ExtendedAttributes>
+  </Participant>
+  <Participant Id="bfc4dc7e-c1c2-47da-a09a-f1f64af8089d" Name="Assistente Financeiro">
+    <ParticipantType Type="ROLE" />
+    <Description />
+    <ExtendedAttributes>
+      <ExtendedAttribute Name="AssistenteFinanceiro" />
+    </ExtendedAttributes>
+  </Participant>
+  <Participant Id="a8822ac9-33eb-4c8e-b5c8-1b501b1a4164" Name="Auxiliar de Estoque">
+    <ParticipantType Type="ROLE" />
+    <Description />
+    <ExtendedAttributes>
+      <ExtendedAttribute Name="AuxiliardeEstoque" />
+    </ExtendedAttributes>
+  </Participant>
+</Participants>

@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ExtendedAttribute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Id="7f9c10b1-46b3-4475-b501-867400cd83c3" Type="Text" ExportAsTable="true" ModifiedBy="win10-30j3kvax_avanade-corp_luis.paulo.rodrigues" ModificationDate="2017-08-08T11:29:51.1368414-03:00">
+  <Name>Indicador de desempenho</Name>
+  <Description />
+  <Options />
+  <TableColumns />
+  <ElementTypes>
+    <AttributeElementType Type="ManualTask" />
+    <AttributeElementType Type="UserTask" />
+  </ElementTypes>
+</ExtendedAttribute>
